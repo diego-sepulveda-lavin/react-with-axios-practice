@@ -6,9 +6,6 @@
     text-align: center;
 }
 
-.Edit {
-
-}
 
 .Edit label {
     display: block;
@@ -23,8 +20,7 @@
     color: #fa923f;
 }
 
-.Edit button:hover,
-.Edit button:active {
+.Edit button:hover, .Edit button:active {
     color: #521751;
 }
 
@@ -32,7 +28,6 @@
     color: red;
 }
 
-.Edit button.Delete:hover,
-.Edit button.Delete:active {
+.Edit button.Delete:hover, .Edit button.Delete:active {
     color: darkred;
 }
